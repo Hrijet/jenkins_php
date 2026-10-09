@@ -8,6 +8,6 @@
 <body>
     <h1>Welcome to My PHP Application!</h1>
     <p>Successfully deployed using Jenkins CI/CD Pipeline.</p>
-    <p>Version 1.0</p>
+    <p>Version 1.1</p>
 </body>
 </html>
